@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the QR code component coding challenge](https://mrunal112.github.io/Responsive-QR-Scanner/)
 
 ## Welcome! 👋
 
